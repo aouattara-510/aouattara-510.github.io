@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="28" fill="#0b1220"/>
+<circle cx="675" cy="85" r="115" fill="#1f6feb" opacity=".22"/>
+<circle cx="110" cy="365" r="120" fill="#21c7a8" opacity=".15"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Recommendations</text>
+<text x="62" y="245" font-family="Arial, sans-serif" font-size="27" fill="#9fb3c8">Hybrid Filtering</text>
+<rect x="60" y="292" width="150" height="7" rx="4" fill="#21c7a8"/>
+</svg>
